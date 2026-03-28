@@ -1,0 +1,448 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+}
+header{
+    display: flex;
+    text-decoration: none;
+    margin-top: 18px;
+    margin-left: 250px;  
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin-bottom: 18px;
+}
+.ul1{
+    text-decoration: none;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    color: black; 
+}
+.ul1 a{
+    color: black;
+    text-decoration: none;
+}
+.li1{
+    margin-right: 380px;
+}
+li{
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.ul1 a:hover{
+    text-decoration: underline;
+
+}
+.div1{
+    display: flex;
+    margin-top: 100px;
+
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-right: 60px;
+}
+.section1{
+    margin-left: 300px;
+    margin-bottom: 70px;
+}
+.div18{
+    margin-right: 50px;
+padding-top: 70px;
+}
+.h1{
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 80px;
+}
+.div11{
+    margin-bottom: 10px;
+}
+.h2{
+    font-size: 25px;
+}
+.div12{
+    margin-bottom: 10px;
+    margin-left: 18px;
+}
+.div13{
+    margin-left: 35px;
+
+}
+.h3{
+    font-weight: lighter;
+font-size: 20px;
+}
+.div19{
+    display: flex;
+    margin-left: 30px;
+    margin-top: -1px;
+}
+
+.btn1{
+    border-radius: 50px;
+    border-width: 1px;
+    border-color: black;
+    font-size: 10px;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+background-color: white;    
+}
+.btn1:hover{
+    background-color:black;
+    color: white;
+}
+.btn2{
+    border-radius: 50px;
+    border-width: 1px;
+    border-color: black;
+    font-size: 10px;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+background-color: white;    
+}
+.btn2:hover{
+    background-color:black;
+    color: white;
+}
+.div14{
+    margin-right: 13px;
+}
+.ion1{
+    color: white;
+    width: 24px;
+    height: 24px;
+    background: black;
+}
+.div120{
+    display: flex;
+    margin-left: 105px;
+    margin-top: -1px;
+}
+.ion2{
+    color: white;
+    width: 24px;
+    height: 24px;
+    background: black;
+}
+.div16{
+    margin-right: 10px;
+}
+.icon1:hover{
+    background-color: rgb(255, 255, 255);
+}
+.section2{
+margin-left: 550px;
+margin-bottom: 57px;
+}
+.h21{
+    font-size: 12px;
+    font-weight: normal;
+}
+.div22{
+    margin-bottom: 10px;
+    margin-left: 13px;
+}
+
+.h22{
+    font-size: 30px;
+}
+.section3{
+    margin-left: 300px;
+    margin-bottom: 70px;
+}
+.div31{
+    display: flex;
+}
+.img2{
+        height: 250px;
+        width: 250px;
+        border-top-right-radius: 10%;
+        border-bottom-right-radius: 10%;
+        border-bottom-left-radius: 10%;
+        border-top-left-radius: 10%;
+
+}
+.div33{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.div34{
+    width: 60vh;
+    height: 17vh;
+    align-items: center;
+    border-style: solid;
+   border-width: 1px;
+   border-color: black;
+padding-left: 60px;
+padding-top: 25px;
+padding-bottom: 45px;
+border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-top-left-radius: 10px;
+        margin-bottom: 10px;
+}
+.h31{
+    font-size: 20px;
+padding-left: 58px;
+}
+
+.h33{
+    font-size: 12px;
+    font-weight: normal;
+}
+.h32{
+    font-size: 12px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+.div35{
+    margin-bottom: 5px;
+}
+p{
+    font-size: 12px;
+    font-weight: normal;
+line-height: normal;
+}
+.section4{
+    margin-left: 550px;
+    margin-bottom: 40px;
+    }
+    .h41{
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .h42{
+        font-size: 30px;
+   
+    }
+    .div42{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+    .div43{
+        margin-left: -30px;
+        margin-bottom: 20px;
+    }
+    .section5{
+        margin-left: 205px;
+        margin-bottom: 130px;
+        display: flex;
+    }
+    .div51{
+        display: flex;
+    }
+    .div52{
+        width: 60vh;
+        height: 30vh;
+        align-items: center;
+        border-style: solid;
+       border-width: 1px;
+       border-color: black;
+    padding-left: 60px;
+    padding-top: 25px;
+    padding-bottom: 45px;
+    border-top-right-radius: 15px;
+            border-bottom-right-radius: 15px;
+            border-bottom-left-radius: 15px;
+            border-top-left-radius: 15px;
+            margin-bottom: 30px;
+            margin-right: 26px;
+    }
+    .h51{
+        text-align: center;
+        margin-right: 10px;
+        margin-bottom: 17px;
+        margin-left: -30px;
+    }
+    .div513{
+        display: flex;
+    }
+    .div514{
+        margin-right: 70px;
+        margin-left: 20px;
+    }
+    .h53{
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .h52{
+        font-size: 16px;
+        margin-bottom: 4px;
+    }
+    .div55{
+        margin-bottom: 20px;
+    }
+    .section6{
+        margin-left: 550px;
+        margin-bottom: 40px;
+        }
+        .h61{
+            font-size: 12px;
+            font-weight: normal;
+        }
+        .h62{
+            font-size: 34px;
+       
+        }
+        .div62{
+            margin-left: 2px;
+            margin-bottom: 10px;
+        }
+        .div63{
+            margin-left: -20px;
+            margin-bottom: 20px;
+        }
+        .div71{
+            display: flex;
+        }
+        .div72{
+            width: 42vh;
+            height: 51vh;
+            align-items: center;
+            border-style: solid;
+           border-width: 1px;
+           border-color: black;
+        padding-left: 60px;
+        padding-top: 25px;
+        padding-bottom: 45px;
+        border-top-right-radius: 15px;
+                border-bottom-right-radius: 15px;
+                border-bottom-left-radius: 15px;
+                border-top-left-radius: 15px;
+                margin-bottom: 30px;
+                margin-right: 26px;
+        }
+        .img3{
+            height: 200px;
+            width: 200px;
+            border-top-right-radius: 10%;
+            border-bottom-right-radius: 10%;
+            border-bottom-left-radius: 10%;
+            border-top-left-radius: 10%;
+            margin-left: -25px;
+    
+    }
+    .section7{
+        margin-left: 60px;
+        margin-bottom: 140px;
+    }
+    .div73{
+        margin-bottom: 15px;
+    }
+    .h71{
+        font-size: 18px;
+        margin-left: 13px;
+    }
+   
+    .btn3{
+        border-radius: 50px;
+        border-width: 1px;
+        border-color: black;
+        font-size: 10px;
+        font-weight: 600;
+        margin: 1rem 0;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    background-color: white;    
+    }
+    .btn3:hover{
+        background-color:black;
+        color: white;
+    }
+    .div74{
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .div75{
+margin-left: 33px; 
+margin-top: -5px;
+   }
+   .section8{
+    margin-left: 550px;
+    margin-bottom: 110px;
+    }
+    .h81{
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .h82{
+        font-size: 32px;
+   
+    }
+    .div82{
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    .div83{
+        margin-left: -20px;
+        margin-bottom: 20px;
+    }
+    .div84{
+        display: flex;
+        width: 59vh;
+        height: 2vh;
+        align-items: center;
+            border-style: solid;
+           border-width: 1px;
+           border-color: black;
+        padding-left: 20px;
+        padding-top: 27px;
+        padding-bottom: 27px;
+        border-top-right-radius: 15px;
+                border-bottom-right-radius: 15px;
+                border-bottom-left-radius: 15px;
+                border-top-left-radius: 15px;
+                margin-bottom: 30px;
+                margin-left: -120px;
+        
+    }
+    .h81{
+        font-size: 15px;
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+    .ion3{
+        color: white;
+        width: 24px;
+        height: 24px;
+        background: black;
+        margin-top: -20px;
+    }
+    .div85{
+        margin-right: 10px;
+    }
+    .ulf1{
+        margin-left: 410px;
+        text-decoration: none;
+        display: flex;
+        text-decoration: none;
+        list-style-type: none;
+        color: black; 
+    }
+    .ulf1 a{
+        color: black;
+        text-decoration: none;
+    }
+    .ulf1 a:hover{
+        text-decoration: underline;
+    }
+    footer{
+        margin-bottom: 20px;
+    }

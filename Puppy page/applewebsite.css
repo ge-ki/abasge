@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+.one{
+    background-color: rgb(127, 178, 255);
+    color: white;
+    text-align: center;
+    text-size-adjust: 6px;
+    font-size: small;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  
+
+}
+.first{
+max-width: fit-content;
+size: 0px;
+display: block;
+width: 100%;
+margin-bottom: 40px;
+}
+.first img{
+  width: 1400px;
+  height: 350px;
+}
+.geni{
+  display: flex;
+  margin-bottom: 40px;
+  margin-left: 200px;
+  margin-right: 80px;
+}
+.third{
+  text-align: center;
+  background-color: rgb(255, 153, 127);
+  padding-top: 120px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-right: 8px;
+ 
+}
+.fam{
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 200px;
+}
+.fifth{
+  margin-bottom: 40px;
+  text-align: center;
+}
+.nine{
+  text-align: center;
+  background-color: rgb(127, 178, 255);
+  padding-bottom: 60px;
+  padding-top: 60px;
+  color: white;
+}
+.second{
+  border-width: 30px;
+  margin-right: 8px;
+  
+}
+.seven{
+  margin-right: 30px;
+}
+.eight img{
+  width: 388px;
+  height: 530px;
+}
